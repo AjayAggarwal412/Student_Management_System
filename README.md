@@ -28,7 +28,7 @@ A **MERN (MongoDB, Express, React, Node.js)** based Student Management System th
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/student-management.git
-cd student-management
+cd assignment
 ```
 
 ### 2️⃣ Backend Setup (Server)
