@@ -30,6 +30,7 @@ const StudentDetail = () => {
 
   return (
     <Container className="mt-5">
+      <h2 className="my-3">Student Details</h2>
       <Card className="shadow-lg p-4">
         <Row className="align-items-center">
           {/* Left side - Student Image */}
